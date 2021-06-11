@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=stockagerecoface;AccountKey=t/06XbiDsRgIeQGL4Fe7sKoeqVz4klnwtShd+X4wX6/YkgyzQcl3PYCACnfz5eLdV0grpwrqgy04DxXHzkfekA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "stockagerecoface_STORAGE": "DefaultEndpointsProtocol=https;AccountName=stockagerecoface;AccountKey=t/06XbiDsRgIeQGL4Fe7sKoeqVz4klnwtShd+X4wX6/YkgyzQcl3PYCACnfz5eLdV0grpwrqgy04DxXHzkfekA==;EndpointSuffix=core.windows.net",
+    "tprecofacecosmos_DOCUMENTDB": "AccountEndpoint=https://tprecofacecosmos.documents.azure.com:443/;AccountKey=LqlZhAcW3r43TNqSB3XnrltvtzmjKzsXfO44zv5RqEAhociiKNoRBavkyDnTSBMWTUJDkUBnS6nGoDhne8P7Lg==;"
+  }
+}
